@@ -1,6 +1,4 @@
-# Binary-tree-Leetcode-question
-SUBTREE ANOTHER TREE
-
+# Binary tree(subtree another tree)
 
 class Solution {
     public boolean isSubtree(TreeNode root, TreeNode subRoot) { 
